@@ -10,7 +10,7 @@ Set od Python scripts used to test web browsers. It currently consists of these 
     - Loops between designated pages.
     - Uses basic keyboard shortcuts every browser has.
 
-## Processing script
+## Processing script
 
 We used the HWiNFO64 CSV logging to get power consumption and RAM usage. Included Julia script is used to process the CSV output. 
 
