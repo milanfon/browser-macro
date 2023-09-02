@@ -3,7 +3,7 @@
 Set od Python scripts used to test web browsers. It currently consists of these tests:
 
 1. Forum
-    - Tests basic web browsing using the [milanfon.cz] community forum. 
+    - Tests basic web browsing using the [milanfon](milanfon.cz) community forum. 
     - Loads selected pages and scrolls on them.
 2. Tab
     - Opens 200 tabs in browser.
